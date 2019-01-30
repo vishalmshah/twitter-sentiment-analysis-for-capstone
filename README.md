@@ -1,2 +1,2 @@
 # twitter-sentiment-analysis-for-capstone
-AHS Senior Capston Project
+AHS Senior Capstone Project
