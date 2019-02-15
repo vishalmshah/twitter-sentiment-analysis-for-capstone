@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+node_modules
+node_modules/
+gui-web/node_modules/
+gui-web/server/node_modules/
+
+model-development/data/
+model-development/raw/
+model-development/en.bin
+
+sentlex-master/
